@@ -8,7 +8,7 @@ if ($is_production) {
     // InfinityFree Production Database
     $host = "sql110.infinityfree.com";
     $user = "if0_43079404";
-    $pass = "CyberHacker1013";
+    $pass = "Cyberhucker1013";
     $dbname = "if0_43079404_peakph_db";
 } else {
     // Local XAMPP Database

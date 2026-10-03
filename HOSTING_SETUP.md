@@ -10,7 +10,7 @@ Your application is **NOW READY** for InfinityFree hosting with the following co
 - **Production Settings**:
   - Hostname: `sql110.infinityfree.com`
   - Username: `if0_43079404`
-  - Password: `CyberHacker1013`
+  - Password: `Cyberhucker1013`
   - Database: `if0_43079404_peakph_db`
 
 ### 2. Environment Detection ✅

@@ -57,7 +57,7 @@ if (PRODUCTION_MODE) {
     // InfinityFree Production Database
     define('DB_HOST', 'sql110.infinityfree.com');
     define('DB_USER', 'if0_43079404');
-    define('DB_PASS', 'CyberHacker1013');
+    define('DB_PASS', 'Cyberhucker1013');
     define('DB_NAME', 'if0_43079404_peakph_db');
 
     // PayMongo Production Keys
