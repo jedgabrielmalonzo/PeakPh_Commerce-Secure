@@ -4,9 +4,9 @@
 -- Includes all current tables with PayMongo integration
 -- =====================================================
 
--- Create the database
-CREATE DATABASE IF NOT EXISTS peakph_db;
-USE peakph_db;
+-- Database creation omitted for shared hosting (InfinityFree already creates and selects if0_43079404_peakph_db)
+-- CREATE DATABASE IF NOT EXISTS peakph_db;
+-- USE peakph_db;
 
 -- =====================================================
 -- 1. INVENTORY TABLE
