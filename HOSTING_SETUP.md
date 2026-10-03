@@ -8,10 +8,10 @@ Your application is **NOW READY** for InfinityFree hosting with the following co
 - **File**: `includes/db.php`
 - **Status**: Auto-detects environment
 - **Production Settings**:
-  - Hostname: `sql308.infinityfree.com`
-  - Username: `if0_42814827`
-  - Password: `PeakPh2026`
-  - Database: `if0_42814827_peakph_db`
+  - Hostname: `sql110.infinityfree.com`
+  - Username: `if0_43079404`
+  - Password: `CyberHacker1013`
+  - Database: `if0_43079404_peakph_db`
 
 ### 2. Environment Detection ✅
 - **File**: `includes/environment.php`

@@ -6,10 +6,10 @@ $is_production = !in_array($hostname, ['localhost', '127.0.0.1']);
 // Configure database credentials based on environment
 if ($is_production) {
     // InfinityFree Production Database
-    $host = "sql308.infinityfree.com";
-    $user = "if0_42814827";
-    $pass = "PeakPh2026";
-    $dbname = "if0_42814827_peakph_db";
+    $host = "sql110.infinityfree.com";
+    $user = "if0_43079404";
+    $pass = "CyberHacker1013";
+    $dbname = "if0_43079404_peakph_db";
 } else {
     // Local XAMPP Database
     $host = "localhost";
